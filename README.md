@@ -1,4 +1,4 @@
-# Promise的理解与使用(收藏版)
+# Promise的理解与使用
 
 ## 1. Promise 是什么?
 
@@ -766,7 +766,3 @@ class Promise{
 ```
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/9619f9feb97f477e87531882b734fc37.png)
-
-# 总结
-
-以上就是个人学习Promise的相关知识点，如有错漏之处，敬请指正
